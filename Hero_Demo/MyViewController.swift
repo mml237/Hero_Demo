@@ -18,7 +18,7 @@ class MyViewController: UIViewController {
     
     // MARK: - didn't excuted<##>
     deinit {
-        print("deinit~")
+        print("deinit")
     }
 
     override func viewDidLoad() {
